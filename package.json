@@ -53,8 +53,8 @@
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/assert-is-almost-same-value": "github:stdlib-js/assert-is-almost-same-value#main",
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/assert-is-almost-same-value": "^0.1.0",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.1",

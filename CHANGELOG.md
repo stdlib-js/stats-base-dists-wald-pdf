@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-04)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,8 @@
 
 <details>
 
+-   [`0fdb09d`](https://github.com/stdlib-js/stdlib/commit/0fdb09de594a955236c5f03fc9beb86dd761e914) - **docs:** fix JSDoc types [(#14878)](https://github.com/stdlib-js/stdlib/pull/14878) _(by Philipp Burckhardt)_
+-   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - **fix:** avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446) _(by Philipp Burckhardt)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
 -   [`36ee366`](https://github.com/stdlib-js/stdlib/commit/36ee366130c07464017ccf0b49b9645a8f644a5f) - **chore:** clean-up [(#13539)](https://github.com/stdlib-js/stdlib/pull/13539) _(by Philipp Burckhardt)_

@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`30e3116`](https://github.com/stdlib-js/stdlib/commit/30e31169773fecb73cef596931064d92513d993c) - **chore:** clean-up [(#14969)](https://github.com/stdlib-js/stdlib/pull/14969) _(by Philipp Burckhardt)_
 -   [`0fdb09d`](https://github.com/stdlib-js/stdlib/commit/0fdb09de594a955236c5f03fc9beb86dd761e914) - **docs:** fix JSDoc types [(#14878)](https://github.com/stdlib-js/stdlib/pull/14878) _(by Philipp Burckhardt)_
 -   [`f51d7fe`](https://github.com/stdlib-js/stdlib/commit/f51d7fed453924f3d346c8591c5542dfa9955c5d) - **fix:** avoid overflow and duplicate computation [(#14446)](https://github.com/stdlib-js/stdlib/pull/14446) _(by Philipp Burckhardt)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
